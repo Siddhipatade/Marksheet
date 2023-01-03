@@ -1,4 +1,4 @@
-    The basic concepts of **c++** are as follows :
+    The basic concepts of c++ are as follows :
     ➢ Header files are those files that store predefined functions.
     ➢ The "for" loop is used to repeat a specific block of code a known number of times.
     ➢ If-else statement controls conditional branching.
