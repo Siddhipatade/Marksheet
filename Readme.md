@@ -1,4 +1,4 @@
-# Marksheet
+# `Marksheet`
 
 The basic concepts of c++ are as follows :
 
@@ -16,7 +16,7 @@ The data types we use
     • Derived Data Types
     • Abstract or User-Defined Data Types
 
-**"Object-oriented programming"** concepts we have used -
+## `**"Object-oriented programming"** concepts we have used`
 
     ▪ CLASS
     ▪ OBJECT
