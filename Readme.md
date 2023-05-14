@@ -1,6 +1,6 @@
 # `Marksheet`
 
-The basic concepts of c++ are as follows :
+The basic concepts of `c++` are as follows :
 
 -Header files are those files that store predefined functions.
 
@@ -10,7 +10,7 @@ The basic concepts of c++ are as follows :
 
 -The inline function is an enhancement feature that improves the execution time and speed of the program.
 
-The data types we use
+The _data types_ we use
 
     • Primitive Data Types
     • Derived Data Types
